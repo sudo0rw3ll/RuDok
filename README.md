@@ -13,8 +13,8 @@ the following design patterns:
 ![RuDok GUI](/slike/first_printsc.PNG)
 
 This application was inspired by PowerPoint, software for presentation design.
-RuDok allows you to create multiple projects inside your workspace and multiple
-presentations inside created projects. You can design your own presentation slides
+<br>RuDok allows you to create multiple projects inside your workspace and multiple
+presentations inside created projects.</br> You can design your own presentation slides
 by adding slots. Slots can be either text or images.
 
 Content inside text slot can be edited and stylized by adding simple styles
